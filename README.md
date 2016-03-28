@@ -17,4 +17,5 @@ ionic serve //preview in browser
 ionic run android // make sure you have an adb connected android device, I used genymotion instance
 
 ionic plugin add https://github.com/apache/cordova-plugin-whitelist.git //fixes 404 issue
+//reference: http://docs.ionic.io/docs/cordova-whitelist
 
